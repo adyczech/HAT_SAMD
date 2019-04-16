@@ -17,7 +17,7 @@
           },
           "url": "https://github.com/adyczech/HAT_SAMD/blob/master/hat_samd.zip",
           "archiveFileName": "hat_samd.zip",
-		  "checksum": "SHA-256:daa542fed156f1036881d8987111552e4678b5abde3020a0d4ffa4e206236927",
+		  "checksum": "SHA-256:ED46203E615C6679613FC1CBF285CDA0C79CACDE81AA812E7DB22A2643523EF0",
           "size": "1228439",
           "boards": [
             {"name": "HAT_SAMD"}
