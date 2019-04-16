@@ -15,7 +15,7 @@
           "help": {
             "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
           },
-          "url": "https://github.com/adyczech/HAT_SAMD/blob/master/hat_samd.zip",
+          "url": "https://raw.githubusercontent.com/adyczech/HAT_SAMD/master/hat_samd.zip",
           "archiveFileName": "hat_samd.zip",
 		  "checksum": "SHA-256:ED46203E615C6679613FC1CBF285CDA0C79CACDE81AA812E7DB22A2643523EF0",
           "size": "1228439",
