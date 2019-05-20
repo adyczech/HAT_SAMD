@@ -2,19 +2,14 @@
   "packages": [
     {
       "name": "HAT_SAMD",
-      "maintainer": "adyczech",
-      "websiteURL": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html",
-      "email": "roman.adamek@mechlab.cz",
-      "help": {"online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"},
+      "maintainer": "adyczech",      
+      "email": "roman.adamek@mechlab.cz",      
       "platforms": [
         {
 		  "name": "HAT_SAMD",
           "architecture": "samd",
           "version": "1.0.0",
-          "category": "Contributed",
-          "help": {
-            "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
-          },
+          "category": "Contributed",          
           "url": "https://raw.githubusercontent.com/adyczech/HAT_SAMD/master/HAT_SAMD.zip",
           "archiveFileName": "HAT_SAMD.zip",
 		  "checksum": "SHA-256:277CB80F3E6E587599D8FF90BFEF20D377F927B131A0FDD0D31685118010EDE8",
